@@ -72,13 +72,14 @@ Here are some tips to help you complete the exercise successfully:
 * Use Rust's built-in testing framework to test your code.
 * Use Rust's `clap` crate to create a CLI interface for your application.
 * Use Rust's `serde` crate to serialize and deserialize tasks to and from disk.
+* Use Rust's `serde_json` crate to serialize and deserialize in JSON format.
 
 ## Part 2: Git Exercise
 
 After completing the to-do list application, you will need to submit your code
 on a Git repository. For this part of the exercise, you will create a new
 repository on GitHub (or any other Git hosting platform) and submit your code
-using Git.
+using Git. Make sure the created repository is publicly accessible.
 
 Here are the steps to follow:
 
@@ -98,9 +99,8 @@ Here are the steps to follow:
 
 Your submission will be evaluated based on the following criteria:
 
-1. Correctness and completeness of the implementation. Does the password
-   generator work correctly and meet all of the functional and technical
-   requirements?
+1. Correctness and completeness of the implementation. Does the to-do list work
+   correctly and meet all of the requirements?
 
 2. Code quality and organization. Is the code well-structured, easy to read and
    understand, and free of unnecessary complexity?
