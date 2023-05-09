@@ -66,6 +66,7 @@ features:
 
 Here are some tips to help you complete the exercise successfully:
 
+* Use the Rust Programming Language book as reference: https://doc.rust-lang.org/book/
 * Use external libraries (i.e., crates) when appropriate, but be sure to explain
   why you chose to use them.
 * Write clear and concise code comments to explain what your code is doing.
